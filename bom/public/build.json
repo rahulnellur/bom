@@ -1,0 +1,8 @@
+{
+  "js/bom.min.js": [
+    "js/bom_placeholder.js"
+  ],
+  "css/bom.min.css": [
+    "css/bom_placeholder.css"
+  ]
+}
