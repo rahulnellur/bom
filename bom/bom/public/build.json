@@ -1,5 +1,4 @@
 {
-  "output": "dist",
   "js/bom.min.js": [
     "js/bom_placeholder.js"
   ],
