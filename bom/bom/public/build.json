@@ -1,8 +1,10 @@
 {
+  "output": "dist",
   "js/bom.min.js": [
-    "public/js/bom_placeholder.js"
+    "js/bom_placeholder.js"
   ],
   "css/bom.min.css": [
-    "public/css/bom_placeholder.css"
+    "css/bom_placeholder.css"
   ]
 }
+
